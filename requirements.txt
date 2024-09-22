@@ -1,9 +1,9 @@
-requests==2.31.0
+requests==2.32.2
 mysql-connector-python==8.1.0
 beautifulsoup4==4.12.2
 click==8.1.6
 PyMySQL==1.1.0
 SQLAlchemy==2.0.21
-requests==2.31.0
+requests==2.32.2
 pymysql==1.0.2
 click==8.1.3
