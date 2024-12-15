@@ -5,5 +5,5 @@ click==8.1.6
 PyMySQL==1.1.0
 SQLAlchemy==2.0.21
 requests==2.31.0
-pymysql==1.0.2
+pymysql==1.1.1
 click==8.1.3
